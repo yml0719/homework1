@@ -1,0 +1,38 @@
+*{margin:0;padding:0}
+.h-panel{
+    width:1800px;
+    height:98px;
+}
+.h-logo{
+    width:226px;
+    height:98px;
+    position: relative;
+    margin-left:337px;
+    
+}
+.xiaomilogo{
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    left: -14px;
+    top: 8px;
+    bottom: 24px;
+}
+.h-logo-text1{
+    font-size: 51px;
+    text-decoration: none;
+    position: absolute;
+    right: -49px;
+    top: -4px;
+    color:#333333;
+}
+
+.h-logo-text2{
+    font-size:1px;
+    text-decoration:none;
+    position: absolute;
+    right:-49px;
+    bottom:27px;
+    top:52px;
+    color:#8F8F8F;
+}
